@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 JustDial Automation Framework
 
 This project is a comprehensive automation framework built using **Java**, **Selenium WebDriver**, **Cucumber (BDD)**, **and TestNG Framework **, to simulate and validate a user journey on the JustDial website. It demonstrates real-world automation scenarios such as service discovery, form validation, menu navigation, and cross-browser testing.
@@ -79,3 +80,7 @@ This project is a comprehensive automation framework built using **Java**, **Sel
 		When the user handles car wash pop ups
 		And user navigates to Gym
 		Then user prints Gym SubMenu items
+=======
+# JustDial-Automation-Java-Selenium
+Automation framework for JustDial website using Java, Selenium WebDriver, Cucumber BDD, Apache POI for Excel data handling, and Log4j for logging.
+>>>>>>> 08d37d5f1c5ff43991bb2c7ff4419657cb871c0d
