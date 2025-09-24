@@ -1,6 +1,6 @@
 # 🚗 JustDial Automation Framework
 
-This project is a comprehensive automation framework built using **Java**, **Selenium WebDriver**, and **Cucumber (BDD)** to simulate and validate a user journey on the JustDial website. It demonstrates real-world automation scenarios such as service discovery, form validation, menu navigation, and multi-browser testing.
+This project is a comprehensive automation framework built using **Java**, **Selenium WebDriver**, **Cucumber (BDD)**, **and TestNG Framework **, to simulate and validate a user journey on the JustDial website. It demonstrates real-world automation scenarios such as service discovery, form validation, menu navigation, and cross-browser testing.
 
 ---
 
@@ -31,31 +31,51 @@ This project is a comprehensive automation framework built using **Java**, **Sel
 
 ## 🧪 Test Scenarios
 
-### ✅ Scenario: Car Wash to Gym Navigation
-- Launch browser (Chrome or Edge)
+### ✅ Scenario: Extraction of Car Wash Details
+- Launching browsers - Cross browser testing
 - Handle popups on JustDial homepage
 - Search for car wash services
 - Apply filters for rating and votes
 - Print top-rated services with contact details
-- Submit Free Listing form with invalid and valid mobile numbers
+- Close browser
+
+### 🧾 Scenario (Cucumber)
+```gherkin
+	Scenario: Car Wash details extraction
+		Given the user launches browser and open JustDial website 
+		When the user handles car wash pop ups
+		And the user search nearby car washing services
+		And the user applies rating filter
+		And the user sort top rated service centres
+		Then the user should be able to view and print top rated service centres
+
+### ✅ Scenario: Testing Invalid Phone Number Input
+- Launching browsers - Cross browser testing
+- Handle popups on JustDial homepage
+- Submit Free Listing form with invalid phone number
+- And the submit it with a valid phone number
+- Close browser
+
+### 🧾 Scenario (Cucumber)
+```gherkin
+	Scenario: Number Verification
+		Given the user launches browser and open JustDial website 
+		When the user handles car wash pop ups
+		And the user navigates to Free Listing
+		And the user enters an invalid mobile number "1234567890"
+		Then an error message should be displayed
+		And the user proceeds with valid mobile number and verifies it
+
+### ✅ Scenario: Testing SubMenus of GymMenu
+- Launching browsers - Cross browser testing
+- Handle popups on JustDial homepage
 - Navigate to Gym section and extract sub-menu items
 - Close browser
 
-### 🧾 Scenario Outline (Cucumber)
+### 🧾 Scenario (Cucumber)
 ```gherkin
-Scenario Outline: Car Wash to Gym navigation on "<browser>"
-  Given User launches browser "<browser>" and opens JustDial website
-  When User handles car wash popups
-  And User searches for car washing services
-  And User applies rating filter
-  And User prints top rated services
-  Then User submits Free Listing with mobile number 1234567890 and retries with valid number
-  And User returns to homepage
-  And User navigates to Gym menu
-  Then User prints gym submenu items
-  And User closes browser
-
-Examples:
-  | browser |
-  | edge    |
-  | chrome  |
+	Scenario: Getting SubMenu in Gym 
+		Given the user launches browser and open JustDial website 
+		When the user handles car wash pop ups
+		And user navigates to Gym
+		Then user prints Gym SubMenu items
