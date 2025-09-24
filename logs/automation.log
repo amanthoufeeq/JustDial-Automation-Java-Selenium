@@ -1,0 +1,322 @@
+10:16:37.982 [TestNG-tests-1] INFO  Factory.BaseClass - Chrome browser launched successfully
+10:16:45.578 [TestNG-tests-1] INFO  Factory.BaseClass - Navigated to the url
+10:16:45.912 [TestNG-tests-1] INFO  Factory.BaseClass - Launched chromebrowser and opening JustDial website
+10:16:45.922 [TestNG-tests-1] INFO  Factory.BaseClass - Handling car wash pop-ups on JustDial
+10:16:49.865 [TestNG-tests-1] INFO  Factory.BaseClass - Searching for nearby car washing services
+10:16:52.443 [TestNG-tests-1] INFO  Factory.BaseClass - Applying rating filter to car wash services
+10:16:55.319 [TestNG-tests-1] INFO  Factory.BaseClass - Sorting top-rated car wash service centres
+10:16:56.421 [TestNG-tests-1] INFO  Factory.BaseClass - Viewing and printing top-rated car wash service centres
+10:16:59.845 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Wash Result
+10:16:59.845 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:17:00.310 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:17:00.322 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:17:01.020 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:17:01.035 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:17:01.039 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:17:01.041 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:17:01.044 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:17:01.049 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:17:01.119 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:17:01.121 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:17:01.149 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:17:01.154 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:17:01.160 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:17:01.165 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:17:01.171 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:17:01.173 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+10:17:01.357 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:17:01.359 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+10:17:01.548 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+10:17:01.582 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+10:17:01.685 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+10:17:01.697 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+10:17:01.697 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+10:17:01.713 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+10:17:01.720 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+10:17:01.730 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+10:17:01.753 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+10:17:01.759 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+10:17:01.761 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+10:17:01.777 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+10:17:01.785 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+10:17:01.795 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+10:17:01.802 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+10:17:01.811 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+10:17:01.824 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+10:17:01.824 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+10:17:01.844 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+10:17:01.844 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+10:17:01.858 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+10:17:01.884 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+10:17:01.892 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+10:17:01.903 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+10:17:01.926 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+10:17:01.948 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+10:17:01.997 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+10:17:02.004 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctbookviewsb864type
+10:17:02.010 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctbookviewf677type
+10:17:02.020 [TestNG-tests-1] INFO  Factory.BaseClass - Old sheet removed: Chrome Wash Result
+10:17:02.028 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetformatprdef7type
+10:17:02.032 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetviewsb918type
+10:17:02.047 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetview0f43type
+10:17:02.060 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdimensiond310type
+10:17:02.063 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stref90a2type
+10:17:02.071 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctpagemargins5455type
+10:17:02.087 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+10:17:02.106 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Krishna Tyres, 7942688834
+10:17:02.141 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+10:17:02.173 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle propertiesee84doctype
+10:17:02.173 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctproperties3f10type
+10:17:02.190 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle properties288cdoctype
+10:17:02.190 [TestNG-tests-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctproperties2c18type
+10:17:02.221 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:17:02.413 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:17:02.427 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:17:02.428 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:17:02.436 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:17:02.436 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:17:02.438 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:17:02.442 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:17:02.442 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:17:02.442 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:17:05.152 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Wash Result
+10:17:05.154 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:17:05.177 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:17:05.180 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:17:05.247 [TestNG-tests-1] INFO  Factory.BaseClass - Old sheet removed: Chrome Wash Result
+10:17:05.254 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Krishna Tyres, 7942688834
+10:17:05.260 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: The Detailing Mafia, 7947418652
+10:17:05.281 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:17:05.290 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:17:05.292 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:17:05.292 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:17:05.297 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:17:05.297 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:17:05.297 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:17:05.305 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:17:05.305 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:17:05.305 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:17:08.189 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Wash Result
+10:17:08.192 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:17:08.221 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:17:08.239 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:17:08.310 [TestNG-tests-1] INFO  Factory.BaseClass - Old sheet removed: Chrome Wash Result
+10:17:08.317 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Krishna Tyres, 7942688834
+10:17:08.318 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: The Detailing Mafia, 7947418652
+10:17:08.322 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: DD CAR EXPERTS, 7942684014
+10:17:08.344 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:17:08.350 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:17:08.355 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:17:08.355 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:17:08.361 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:17:08.364 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:17:08.364 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:17:08.370 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:17:08.374 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:17:08.382 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:17:18.662 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Wash Result
+10:17:18.662 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:17:18.675 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:17:18.679 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:17:18.734 [TestNG-tests-1] INFO  Factory.BaseClass - Old sheet removed: Chrome Wash Result
+10:17:18.745 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Krishna Tyres, 7942688834
+10:17:18.747 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: The Detailing Mafia, 7947418652
+10:17:18.752 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: DD CAR EXPERTS, 7942684014
+10:17:18.756 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: ARUDHRA CARS DETAILING, 9054285082
+10:17:18.783 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:17:18.787 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:17:18.793 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:17:18.795 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:17:18.801 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:17:18.803 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:17:18.803 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:17:18.809 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:17:18.809 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:17:18.816 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:17:29.039 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Wash Result
+10:17:29.041 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:17:29.051 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:17:29.055 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:17:29.101 [TestNG-tests-1] INFO  Factory.BaseClass - Old sheet removed: Chrome Wash Result
+10:17:29.101 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Krishna Tyres, 7942688834
+10:17:29.114 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: The Detailing Mafia, 7947418652
+10:17:29.116 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: DD CAR EXPERTS, 7942684014
+10:17:29.119 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: ARUDHRA CARS DETAILING, 9054285082
+10:17:29.119 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: MyTVS MultiBrand Car Service, 9740226850
+10:17:29.144 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:17:29.150 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:17:29.154 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:17:29.156 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:17:29.161 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:17:29.163 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:17:29.163 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:17:29.169 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:17:29.169 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:17:29.173 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:17:35.141 [TestNG-tests-1] INFO  Factory.BaseClass - Browser closed.
+10:17:40.762 [TestNG-tests-1] INFO  Factory.BaseClass - Chrome browser launched successfully
+10:17:46.520 [TestNG-tests-1] INFO  Factory.BaseClass - Navigated to the url
+10:17:46.527 [TestNG-tests-1] INFO  Factory.BaseClass - Launched chromebrowser and opening JustDial website
+10:17:46.532 [TestNG-tests-1] INFO  Factory.BaseClass - Handling car wash pop-ups on JustDial
+10:17:56.374 [TestNG-tests-1] INFO  Factory.BaseClass - Navigates to Free Listing
+10:18:17.114 [TestNG-tests-1] INFO  Factory.BaseClass - Invalid phone number is verified
+10:18:17.717 [TestNG-tests-1] INFO  Factory.BaseClass - Error Message:Please Enter a Valid Mobile Number
+10:18:22.635 [TestNG-tests-1] INFO  Factory.BaseClass - Phone number verification successfull
+10:18:27.532 [TestNG-tests-1] INFO  Factory.BaseClass - Browser closed.
+10:18:32.753 [TestNG-tests-1] INFO  Factory.BaseClass - Chrome browser launched successfully
+10:18:48.274 [TestNG-tests-1] INFO  Factory.BaseClass - Navigated to the url
+10:18:48.289 [TestNG-tests-1] INFO  Factory.BaseClass - Launched chromebrowser and opening JustDial website
+10:18:48.297 [TestNG-tests-1] INFO  Factory.BaseClass - Handling car wash pop-ups on JustDial
+10:18:49.749 [TestNG-tests-1] INFO  Factory.BaseClass - Navigates to Gym
+10:18:51.648 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:51.650 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:51.703 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:51.715 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:51.924 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Sort by
+10:18:52.031 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:52.044 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:52.054 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:52.056 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:52.063 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:52.065 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:52.067 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:52.085 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:52.089 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:52.096 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:52.135 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:52.137 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:52.179 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:52.183 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:52.278 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Amenities
+10:18:52.312 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:52.319 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:52.329 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:52.329 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:52.343 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:52.345 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:52.349 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:52.360 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:52.362 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:52.367 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:52.430 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:52.430 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:52.462 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:52.466 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:52.534 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Open Now
+10:18:52.579 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:52.585 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:52.593 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:52.597 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:52.599 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:52.604 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:52.605 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:52.611 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:52.613 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:52.617 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:52.665 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:52.667 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:52.682 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:52.686 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:52.760 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Top Rated
+10:18:52.790 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:52.797 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:52.802 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:52.807 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:52.816 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:52.818 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:52.821 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:52.828 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:52.830 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:52.834 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:52.880 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:52.882 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:52.910 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:52.912 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:53.005 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Quick Response
+10:18:53.028 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:53.036 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:53.044 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:53.044 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:53.052 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:53.054 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:53.056 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:53.065 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:53.067 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:53.071 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:53.129 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:53.131 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:53.144 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:53.146 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:53.192 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Jd Verified
+10:18:53.213 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:53.217 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:53.226 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:53.226 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:53.232 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:53.232 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:53.234 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:53.239 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:53.241 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:53.243 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:53.274 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:53.276 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:53.313 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:53.316 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:53.366 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Ratings
+10:18:53.389 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:53.395 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:53.399 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:53.401 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:53.404 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:53.404 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:53.406 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:53.411 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:53.412 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:53.416 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:53.462 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:53.466 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:53.493 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:53.499 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:53.558 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Deals
+10:18:53.576 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:53.582 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:53.586 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:53.586 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:53.593 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:53.593 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:53.595 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:53.601 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:53.601 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:53.604 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:53.631 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:53.633 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:53.671 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:53.677 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:53.718 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: Jd Trust
+10:18:53.751 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:53.760 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:53.765 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:53.765 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:53.770 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:53.772 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:53.773 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:53.777 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:53.779 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:53.781 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:53.859 [TestNG-tests-1] INFO  Factory.BaseClass - Writing results to Excel: Sheet = Chrome Gym Result
+10:18:53.861 [TestNG-tests-1] INFO  Factory.BaseClass - Existing Excel file found. Loading workbook...
+10:18:53.877 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:53.879 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:53.921 [TestNG-tests-1] DEBUG Factory.BaseClass - Written: All Filters
+10:18:53.940 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:18:53.944 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:18:53.948 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:18:53.948 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:18:53.952 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:18:53.954 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:18:53.954 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:18:53.959 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:18:53.959 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+10:18:53.963 [TestNG-tests-1] INFO  Factory.BaseClass - Excel file saved: C:\Users\2403586\Desktop\Seleniumwebdriver\MainProject\test-ouput-excel\TestOutput_Excel.xlsx
+10:18:53.963 [TestNG-tests-1] INFO  Factory.BaseClass - Gym Sub menu retrieved and printed
+10:18:58.452 [TestNG-tests-1] INFO  Factory.BaseClass - Browser closed.
